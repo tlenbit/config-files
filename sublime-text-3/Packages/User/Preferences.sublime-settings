@@ -1,0 +1,38 @@
+{
+	"anaconda_linting": false,
+	"animation_enabled": false,
+	"auto_complete_delay": 200,
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Soft).sublime-color-scheme",
+	"disable_anaconda_completion": false,
+	"enable_docstrings_tooltip": false,
+	"fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		"dist",
+		".git",
+		"*.cache",
+		"venv",
+		".venv",
+		"__pycache__",
+		".pytest_cache",
+		".mypy_cache"
+	],
+	"font_face": "consolas",
+	"font_size": 10,
+	"gutter": true,
+	"ignored_packages":
+	[
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"margin": 0,
+	"merge_signatures_and_doc": false,
+	"scroll_speed": 0.0,
+	"theme": "gruvbox.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": false,
+	"ui_scale": 0.0,
+	"vintage_start_in_command_mode": true
+}
