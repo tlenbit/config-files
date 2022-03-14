@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Dracula Color Scheme",
+		"Expression",
+		"GitGutter",
+		"gruvbox",
+		"Multicommand",
+		"Package Control",
+		"Pretty JSON",
+		"Pug",
+		"Python Fix Imports",
+		"Solarized Color Scheme",
+		"Sublime Tutor",
+		"SublimeLinter",
+		"SublimeLinter-contrib-mypy",
+		"SublimeLinter-flake8",
+		"Sync Settings",
+		"Theme - Soda SolarizedDark",
+		"TypeScript",
+		"Vue Syntax Highlight"
+	]
+}
